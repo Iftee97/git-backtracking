@@ -1,0 +1,12 @@
+(make sure you use a git bash terminal)
+
+adding to git by back tracking on a specified date:
+
+
+git add .
+
+git commit -m 'some commit message'
+
+git commit --amend --date='yyyy-mm-dd'
+
+git push
